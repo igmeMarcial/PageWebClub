@@ -1,15 +1,14 @@
--- Please read this carefully --
-# Igme Club
+# Cristhian Vásquez - Coach Online
 
-Breve descripción o introducción del proyecto.
+De salir del pandillaje y las drogas a transformar cientos de vidas en Perú y en todo el mundo. Descubre cómo la disciplina y la sabiduría pueden convertirte en un verdadero líder en tu vida.
 
 ---
 
 ## Aviso de Uso
 
-Por favor, ten en cuenta que el código fuente de este proyecto se vende únicamente con fines personales y educativos. No se permite revender este código. Para usos comerciales, contáctame por correo electrónico a igmemarcial@gmail.com.
+El código fuente de este proyecto está disponible únicamente con fines personales y educativos. No se permite revender este código. Si deseas usarlo con fines comerciales, por favor, contacta a través de **igmemarcial@gmail.com**.
 
-Siéntete libre de modificar y personalizar esta plantilla según sea necesario para adaptarla a los detalles y requisitos específicos de tu proyecto.
+Siéntete libre de modificar y personalizar esta plantilla para adaptarla a las necesidades de tu proyecto.
 
 ---
 
@@ -24,11 +23,11 @@ Siéntete libre de modificar y personalizar esta plantilla según sea necesario 
 ## Instrucciones para Ejecutar
 
 1. Asegúrate de tener NodeJs instalado en tu dispositivo.
-2. Extrae todos los archivos del zip.
-3. Abre la terminal y asegúrate de que el directorio esté establecido en la carpeta de este proyecto.
-4. Usa el comando `npm install` para instalar todas las bibliotecas.
+2. Extrae los archivos del zip.
+3. Abre la terminal y navega hasta el directorio de este proyecto.
+4. Ejecuta `npm install` para instalar las bibliotecas necesarias.
 5. Usa el comando `npm run dev` para iniciar el servidor de desarrollo.
-6. Una vez que el servidor de desarrollo haya iniciado, puedes hacer cambios y verlos en localhost:3000 desde el navegador (verifica nuevamente la terminal si el servidor de desarrollo no está en ejecución).
+6. Después de iniciar el servidor, accede a `localhost:3000` en tu navegador.
 
 ---
 
@@ -61,7 +60,7 @@ Siéntete libre de modificar y personalizar esta plantilla según sea necesario 
 
 ## Contacto
 
-Si tienes alguna pregunta o deseas que haga un proyecto, puedes comunicarte conmigo a través de:
+Si tienes alguna pregunta o deseas trabajar en un proyecto, puedes comunicarte conmigo a través de:
 
 - Instagram: [https://www.instagram.com/igmemarcial/](https://www.instagram.com/igmemarcial/)
 
